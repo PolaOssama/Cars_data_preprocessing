@@ -1,0 +1,8 @@
+CarModel,ManufacturingYear,Cylinders,CC,Price,MaximumSpeed,HorsePower,UsedNew
+Toyota,2009,,1600,150000,195,100,New
+Jeep,2009,6,3700,320000,200,210,New
+Mercury,2008,6,4000,2500000,,210,
+Opel,2008,4,1600,180000,192,105,New
+Mitsubishi,2006,4,1600,,170,106,Used
+Honda,2009,4,1500,120000,180,92,New
+Mazda,2003,4,1600,85000,180,,Used
